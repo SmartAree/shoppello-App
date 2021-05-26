@@ -1,3 +1,3 @@
 # shoppello-App
 
-![Screenshot_1607611269](https://user-images.githubusercontent.com/41040479/101786422-badcf580-3b1f-11eb-9522-f221f9a4d93c.png)
+![shopello](https://user-images.githubusercontent.com/41040479/119662831-adbe7500-bde6-11eb-8c52-02c0eb5dcd66.png)
